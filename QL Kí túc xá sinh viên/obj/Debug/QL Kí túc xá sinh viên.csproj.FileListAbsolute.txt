@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\bin\Debug\QL Kí túc xá sinh viên.exe.config
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\bin\Debug\QL Kí túc xá sinh viên.exe
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\bin\Debug\QL Kí túc xá sinh viên.pdb
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\bin\Debug\Guna.UI2.dll
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL Kí túc xá sinh viên.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL_Kí_túc_xá_sinh_viên.Form1.resources
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL_Kí_túc_xá_sinh_viên.Properties.Resources.resources
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL Kí túc xá sinh viên.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL Kí túc xá sinh viên.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL Kí tú.0B1936E7.Up2Date
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL Kí túc xá sinh viên.exe
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL Kí túc xá sinh viên.pdb
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL_Kí_túc_xá_sinh_viên.Dashbroad.resources
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL_Kí_túc_xá_sinh_viên.AddNewRoom.resources
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL_Kí_túc_xá_sinh_viên.NewStudents.resources
+C:\Users\USER\source\repos\QL Kí túc xá sinh viên\QL Kí túc xá sinh viên\obj\Debug\QL_Kí_túc_xá_sinh_viên.UpdateDeleteStudent.resources
