@@ -1,0 +1,40 @@
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\ChuongTrinhQuanLyKyTucXa_Version2.exe.config
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\ChuongTrinhQuanLyKyTucXa_Version2.exe
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\ChuongTrinhQuanLyKyTucXa_Version2.pdb
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\Guna.UI2.dll
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.csproj.AssemblyReference.cache
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.Properties.Resources.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.csproj.GenerateResource.cache
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.csproj.CoreCompileInputs.cache
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTr.3418076C.Up2Date
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.exe
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.pdb
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.Login.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.DashBroad.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.AddNewRooms.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.NewStudent.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.UpdateDeleteStudent.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.StudentFees.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.AllStudents.resources
+C:\Chương Trình Quản Lý Ký Túc Xá\ChuongTrinhQuanLyKyTucXa_Version2\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.LeavedStudent.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\ChuongTrinhQuanLyKyTucXa_Version2.exe.config
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\ChuongTrinhQuanLyKyTucXa_Version2.exe
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\ChuongTrinhQuanLyKyTucXa_Version2.pdb
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.AddNewRooms.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.AllStudents.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.DashBroad.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.LeavedStudent.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.Login.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.NewStudent.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.Properties.Resources.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.StudentFees.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.UpdateDeleteStudent.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.csproj.GenerateResource.cache
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTr.3418076C.Up2Date
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.exe
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.pdb
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.NewEmployee.resources
+C:\Users\USER\Documents\lập trình WINDOWS\ChuongTrinhQuanLyKyTucXa_Version2\obj\Debug\ChuongTrinhQuanLyKyTucXa_Version2.UpdateDeleteEmployee.resources
